@@ -1,0 +1,7 @@
+Faça um texto para ebook, com foco em técnicas para estudo e aprendizagem rápida, listando as principais técnicas, ferramentas e formas que a pessoa pode usar a IA para estudar e aprender mais com exemplos de prompts.
+
+{REGRAS}
+>Explique sempre de uma maneira simples;
+>Deixe o texto enxuto;
+>Sempre traga exemplos de prompts em contextos reais;
+>Sempre deixe um título sugestivo por tópico.
